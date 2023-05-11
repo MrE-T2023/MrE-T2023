@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrE-T2023
-- 👀 I’m interested in ... cyber-security 
+- 👀 I’m interested in ... cyber-security, software development/engineering, DevOps, AI/ML, web3
 - 🌱 I’m currently learning ... Python 
 - 💞️ I’m looking to collaborate on ... 🤷🏻‍♂️ yet...
 - 📫 How to reach me ... here
